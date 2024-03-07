@@ -101,7 +101,7 @@ p {
     color: #ffffff;
 }
 
-.h3 { /*since all 3 had the h3 tag and there was only one h3, condensed the code into one*/
+.h3 { /*since all 3 had the h3 tag and there was only one h3 semantic tag in css, condensed the code into one*/
     margin-bottom: 10px;
     text-align: center;
 }
